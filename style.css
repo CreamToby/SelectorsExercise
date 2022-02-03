@@ -22,6 +22,14 @@ input {
     border: 5px dotted pink;
 }
 
+/* label input {
+    border: 5px dotted pink;
+} */
+
+/* input [type="text"], [type="email"] {
+    border: 5px dotted pink;
+} */
+
 .first {
     background-color: #fff;
 }
@@ -30,11 +38,11 @@ input {
     border: 3px dashed #0000ff;
 }
 
-div > p {
+div p {
     font-size: 30px;
 }
 
-input[type=email] {
+input[type="email"] {
     background-color: #808080;
 }
 
